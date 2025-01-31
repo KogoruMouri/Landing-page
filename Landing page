@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Toutes les œuvres de Sherlock Holmes - Plongez dans l’univers du célèbre détective avec cette nouvelle édition complète.">
+    <title>Sherlock Holmes - Nouvelle Édition : Toutes les Œuvres</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1c1c1c;
+            color: white;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #2e2e2e;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.1);
+        }
+        h1 {
+            color: #e0b973;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 12px 24px;
+            margin: 20px 10px;
+            background-color: #e0b973;
+            color: black;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .cta-button:hover {
+            background-color: #c99c5c;
+        }
+        .form-group {
+            margin: 20px 0;
+        }
+        input[type="text"], input[type="email"] {
+            width: 80%;
+            padding: 12px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 5px;
+            background-color: #3e3e3e;
+            color: white;
+            text-align: center;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #ccc;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+        }
+        a {
+            color: #e0b973;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📖 Sherlock Holmes - Nouvelle Édition : Toutes les Œuvres</h1>
+        <p>🔍 Redécouvrez les enquêtes du plus grand détective de tous les temps dans une édition complète et restaurée.</p>
+        <p>✨ Exclusivité web : Inscrivez-vous et recevez un extrait gratuit dès maintenant !</p>
+        
+        <h2>📩 Recevez votre extrait gratuit</h2>
+        <form>
+            <div class="form-group">
+                <input type="text" placeholder="Votre nom" required>
+            </div>
+            <div class="form-group">
+                <input type="email" placeholder="Votre email" required>
+            </div>
+            <div class="form-group">
+                <input type="checkbox" required> J’accepte de recevoir des emails de promotions littéraires.
+            </div>
+            <button class="cta-button">📩 Télécharger mon extrait gratuit</button>
+        </form>
+        
+        <h2>Pourquoi lire cette nouvelle édition ?</h2>
+        <ul>
+            <li>📖 L’intégrale des enquêtes de Sherlock Holmes.</li>
+            <li>🕵️‍♂️ Une édition restaurée avec annotations et préface exclusive.</li>
+            <li>⭐ Déjà 4.9/5 sur Goodreads et Amazon.</li>
+        </ul>
+        
+        <h2>📚 EXCLUSIVITÉ PRÉCOMMANDE</h2>
+        <p>🎁 Marque-page collector offert pour toute commande avant le 10 mars !</p>
+        <p>🚚 Livraison gratuite dès 30€ d’achat.</p>
+        <a href="#" class="cta-button">📦 Acheter le livre</a>
+        
+        <h2>📣 Rejoignez la communauté des amateurs de Sherlock Holmes !</h2>
+        <p>📲 Suivez-nous sur Instagram & Facebook pour du contenu exclusif.</p>
+        <p>#SherlockHolmesEdition → Partagez vos avis et vos photos du livre !</p>
+        <p><a href="#">Instagram</a> | <a href="#">Facebook</a> | <a href="#">Twitter</a></p>
+        
+        <h2>🔍 FAQ – Vous avez des questions ?</h2>
+        <p>📌 Où acheter cette édition ? Disponible en ligne sur Amazon, Fnac, Librairie Cajelice.</p>
+        <p>📌 Quand vais-je recevoir mon extrait gratuit ? Immédiatement après inscription, dans votre boîte mail.</p>
+        <p>📌 Existe-t-il une version numérique ? Oui, en eBook sur Kindle et Kobo.</p>
+        
+        <footer>
+            <p>📩 Besoin d’aide ? Contactez-nous à support@cajelice.fr</p>
+        </footer>
+    </div>
+</body>
+</html>
